@@ -88,37 +88,37 @@ st.markdown(
         <div class="skill-container">
             <div class="skill-label">Organized</div>
             <div class="skill-bar">
-                <div class="skill-bar-inner" style="width: 90%;"></div>
+                <div class="skill-bar-inner" style="width: 100%;">100%</div>
             </div>
         </div>
         <div class="skill-container">
             <div class="skill-label">Communication</div>
             <div class="skill-bar">
-                <div class="skill-bar-inner" style="width: 85%;"></div>
+                <div class="skill-bar-inner" style="width: 85%;">85%</div>
             </div>
         </div>
         <div class="skill-container">
             <div class="skill-label">Meeting Deadlines</div>
             <div class="skill-bar">
-                <div class="skill-bar-inner" style="width: 80%;"></div>
+                <div class="skill-bar-inner" style="width: 100%;">100%</div>
             </div>
         </div>
         <div class="skill-container">
             <div class="skill-label">Critical Thinking</div>
             <div class="skill-bar">
-                <div class="skill-bar-inner" style="width: 75%;"></div>
+                <div class="skill-bar-inner" style="width: 85%;">85%</div>
             </div>
         </div>
         <div class="skill-container">
             <div class="skill-label">Video Editing</div>
             <div class="skill-bar">
-                <div class="skill-bar-inner" style="width: 70%;"></div>
+                <div class="skill-bar-inner" style="width: 80%;">80%</div>
             </div>
         </div>
         <div class="skill-container">
             <div class="skill-label">Programming</div>
             <div class="skill-bar">
-                <div class="skill-bar-inner" style="width: 85%;"></div>
+                <div class="skill-bar-inner" style="width: 75%;">75%</div>
             </div>
         </div>
     </div>
@@ -126,14 +126,13 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.markdown(
-    """
-    <p style="font-size: 18px; color: #333;">
-        Click the button below to download my resume!
-    </p>
-    """,
-    unsafe_allow_html=True
-)
+#st.markdown(
+#    """
+#    <p style="font-size: 18px; color: #333;">
+#        Click the button below to download my resume!
+#    </p>
+#    """,
+#   unsafe_allow_html=True)
 
 # Add a download button for the resume
 #with open("resume.pdf", "rb") as file:

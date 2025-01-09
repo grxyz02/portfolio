@@ -48,7 +48,7 @@ st.markdown(
         font-size: 18px;
         text-align: left;
     ">
-        <h1>Hi, I'm Grace 🤖</h1>
+        <h1>Hi, I'm Grace👋​</h1>
         <p>
           Start browsing to discover the perfect blend of <br> passion,
           creativity, and dedication. Whether you're <br> here to explore
